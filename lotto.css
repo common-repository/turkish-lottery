@@ -1,0 +1,10 @@
+span.results-number.iconMini {
+    background-color: rgb(254, 183, 180);
+    display: inline-block;
+    border-radius: 40px;
+    width: 40px;
+    height: 40px;
+    font-size: 15px;
+    text-align: center;
+    margin-right: 2px;
+}
